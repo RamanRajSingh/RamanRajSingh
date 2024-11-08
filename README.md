@@ -8,8 +8,8 @@ I'm a passionate AI & Data Science student with hands-on experience in machine l
 <li><b>📚 Skills:</b> Python, Machine Learning, Deep Learning, Data Analysis, Git, Web Development, and more!</li>
 <li><b>🌱 Currently Learning:</b> Advanced machine learning algorithms, NLP, and cloud deployment for ML models.</li>
 <li><b>👀 Looking for:</b> Internship or full-time opportunities in AI, Machine Learning, and Data Science.</li>
-<!-<li >🔗 Portfolio: [Coming Soon!]</li>-></ol>
-🛠️ Skills and Tools
+<!--<li >🔗 Portfolio: [Coming Soon!]</li>--></ol>
+<!--🛠️ Skills and Tools
 Programming Languages
 Python, JavaScript
 Libraries & Frameworks
@@ -24,8 +24,8 @@ Others: Jupyter Notebook, VS Code
 
 🔗 Connect with Me
 LinkedIn: linkedin.com/in/your-profile
-Email: your-email@example.com
+Email: your-email@example.com-->
 🌟 Notable Projects
-Here are a few projects I'm proud of:
+## Here are a few projects I'm proud of:
 
 Rasoiyya - A web application developed with a team to assist users in managing recipes and meal plans efficiently.
