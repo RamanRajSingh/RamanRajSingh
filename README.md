@@ -8,7 +8,7 @@ I'm a passionate AI & Data Science student with hands-on experience in machine l
 <li><b>📚 Skills:</b> Python, Machine Learning, Deep Learning, Data Analysis, Git, Web Development, and more!</li>
 <li><b>🌱 Currently Learning:</b> Advanced machine learning algorithms, NLP, and cloud deployment for ML models.</li>
 <li><b>👀 Looking for:</b> Internship or full-time opportunities in AI, Machine Learning, and Data Science.</li>
-/*<li >🔗 Portfolio: [Coming Soon!]</li>*/</ol>
+<!-<li >🔗 Portfolio: [Coming Soon!]</li>-></ol>
 🛠️ Skills and Tools
 Programming Languages
 Python, JavaScript
@@ -18,7 +18,7 @@ Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
 Web Development: HTML, CSS, JavaScript
 Tools & Platforms
 Version Control: Git & GitHub
-Cloud: Google Cloud Platform, AWS (Basics)
+Cloud: Google Cloud Platform
 Others: Jupyter Notebook, VS Code
 📈 GitHub Stats
 
