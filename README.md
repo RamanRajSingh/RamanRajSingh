@@ -24,10 +24,12 @@ Others: Jupyter Notebook, VS Code
 
 🔗 Connect with Me
 LinkedIn: linkedin.com/in/your-profile
-Email: ramanraj
+Email: ramanrajsingh07@gmail.com
 -->
+<!--Tally with this link-"https://chatgpt.com/share/672e0d24-542c-8003-89d1-37416b014a03"-->
 
 <h4>🌟 Notable Projects</h4>
-## Here are a few projects I'm proud of:
+Here are a few projects I'm proud of:
 
-Rasoiyya - A web application developed with a team to assist users in managing recipes and meal plans efficiently.
+1. **Rasoiyya** - A web application developed with a team to assist users in managing recipes and meal plans efficiently.
+
