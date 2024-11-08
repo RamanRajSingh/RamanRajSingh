@@ -24,7 +24,8 @@ Others: Jupyter Notebook, VS Code
 
 🔗 Connect with Me
 LinkedIn: linkedin.com/in/your-profile
-Email: your-email@example.com-->
+Email: ramanraj
+-->
 
 <h4>🌟 Notable Projects</h4>
 ## Here are a few projects I'm proud of:
