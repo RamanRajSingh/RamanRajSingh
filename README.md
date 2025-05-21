@@ -15,7 +15,7 @@ I'm a passionate AI & Data Science graduate with hands-on experience in machine 
 <h4>🌟 Notable Projects</h4>
 <ul>
   <li>
-    <b>🔍 Workforce Departure Prediction</b><br>
+    <a href="https://semester-zajs.onrender.com/" style="text-decoration: none;"><b>🔍 Workforce Departure Prediction</b><br></a>
     An AI-powered full-stack web application designed to predict employee attrition based on various organisational and personal factors. The system uses an ensemble learning strategy that combines Logistic Regression, Random Forest, and an Artificial Neural Network to improve precision and generalizability.<br><br>
     <b>Key Features:</b>
     <ul>
