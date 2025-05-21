@@ -1,5 +1,5 @@
 <h1>Hi there, I'm Raman Raj Singh! 👋</h1>
-B.Tech | Artificial Intelligence & Data Science | Final Year Student | College of Technology and Engineering, MPUAT
+B.Tech | Artificial Intelligence & Data Science | College of Technology and Engineering, MPUAT
 
 <h4>🚀 About Me</h4>
 I'm a passionate AI & Data Science intern with hands-on experience in machine learning, deep learning, and data science projects. I'm constantly learning and exploring new tools and technologies to improve my skills in the AI domain.
